@@ -1,4 +1,7 @@
-/* Copyright (c) 2020, nVisionary, Inc. All rights reserved.
+/* Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+ * Copyright 2014 - 2015 Satheesh (ryanjon2040). All rights reserved.
+ * Copyright (c) 2015, Jeff Yates. All rights reserved.
+ * Copyright (c) 2019-2020, nVisionary, Inc. All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions are met:

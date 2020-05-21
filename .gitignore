@@ -88,5 +88,4 @@ tmp/*
 #StarterContent
 */StarterContent/*
 */MobileStarterContent/*
-Content/Geometry/*
-Content/Puzzle/*
+*/SampleAssets/*
